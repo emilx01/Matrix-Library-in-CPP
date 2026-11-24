@@ -1,0 +1,7 @@
+1) Write a library in C++
+2) Using classical pointer allocation, unique_ptr, shared_ptr, or easily, simple pointers, create a CLASS of eVector, and eMatrix (both float32)
+3) Write a method for the matrix class to multiply itself to the eVector
+4) Then, use operator overloading to overload the @ or * symbol to do matrix to vector multiplication
+5) eMatrix should have methods such as .trace(), .sum(), .is_zero()
+
+Hints: "how to make a 2D matrix in C++?", "operator overloading in C++"
